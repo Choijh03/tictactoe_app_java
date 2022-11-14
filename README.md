@@ -18,7 +18,7 @@ Android View:
 
 -Draw:
 
-![Main](https://user-images.githubusercontent.com/98497929/201589124-db25d2ff-890a-40c9-9ae0-0b09a64e52ce.PNG)
+![image](https://user-images.githubusercontent.com/98497929/201601892-982c84f2-d218-410e-af7a-1ee4048df363.png)
 
 -O win:
 
